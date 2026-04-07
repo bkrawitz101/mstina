@@ -1,0 +1,49 @@
+				@font-face {
+					font-family: 'radio';
+					src: url('9265Radio.woff2') format('woff2'),
+						url('9265Radio.woff') format('woff');
+					font-display: auto;
+				}
+
+				.radio{font-family: 'radio' !important;}
+
+						h1{
+					font-family: 'radio' !important;
+				}
+						.menu-academy-header-menu-container li a, .menu-academy-header-menu-container li span, #menu-academy-header-menu li a, #menu-academy-header-menu li span{
+					font-family: 'radio' !important;
+				}
+						.site-title{
+					font-family: 'radio' !important;
+				}
+						h6{
+					font-family: 'radio' !important;
+				}
+						h2, h3, h4, h5{
+					font-family: 'radio' !important;
+				}
+						@font-face {
+					font-family: 'radio';
+					src: url('9265Radio.woff2') format('woff2'),
+						url('9265Radio.woff') format('woff');
+					font-display: auto;
+				}
+
+				.radio{font-family: 'radio' !important;}
+
+						h1{
+					font-family: 'radio' !important;
+				}
+						.menu-academy-header-menu-container li a, .menu-academy-header-menu-container li span, #menu-academy-header-menu li a, #menu-academy-header-menu li span{
+					font-family: 'radio' !important;
+				}
+						.site-title{
+					font-family: 'radio' !important;
+				}
+						h6{
+					font-family: 'radio' !important;
+				}
+						h2, h3, h4, h5{
+					font-family: 'radio' !important;
+				}
+		
